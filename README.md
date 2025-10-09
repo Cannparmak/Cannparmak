@@ -44,4 +44,4 @@ I enjoy building **data-driven solutions** and improving my skills in **.NET, Py
 
 ---
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+> “Show must go on.” 
