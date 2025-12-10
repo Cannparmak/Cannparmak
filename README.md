@@ -26,8 +26,9 @@ I enjoy building **data-driven solutions** and improving my skills in **.NET, Py
 
 ## 🔹 GitHub Stats
 
-![Mülayim Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cannparmak&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical)
+![Can's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cannparmak&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical)
 
 ---
 
