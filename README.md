@@ -40,25 +40,17 @@ I enjoy building **data-driven solutions** and improving my skills in **.NET, Py
 
 ---
 
-## 🔹 Featured Project
-
-### 🚗 [OtoparkPro — AI-Powered Parking Management System](https://github.com/Cannparmak/PlateDetectionSystem)
-
-> Yapay zeka destekli plaka tanıma ve otopark yönetim sistemi | AI-powered license plate recognition & smart parking management
-
-- **YOLOv11** ile gerçek zamanlı plaka tespiti
-- **FastAPI** backend, WebSocket canlı kamera akışı
-- Abonelik yönetimi, admin paneli, bariyer entegrasyonu
-
----
-
 ## 🔹 GitHub Stats
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cannparmak&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=Cannparmak&theme=radical" alt="GitHub Streak">
 </a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical&langs_count=8)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cannparmak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
