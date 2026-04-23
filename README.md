@@ -42,11 +42,7 @@ I enjoy building **data-driven solutions** and improving my skills in **.NET, Py
 
 ## 🔹 GitHub Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cannparmak&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Cannparmak&theme=radical" alt="GitHub Streak">
-</a>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cannparmak&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical&langs_count=8)
 
