@@ -1,6 +1,6 @@
 # Hi there, I'm Mülayim Can 👋
 
-I am a **4th-year Software Engineering student** at Beykoz University, passionate about **Data Science, Business Analysis, and Project Management**.  
+I am a **4th-year Software Engineering student** at Beykoz University, passionate about **Data Science, Data Analyst, Business Analysis**.  
 I enjoy building **data-driven solutions** and improving my skills in **.NET, Python, C, C++, and microservices architectures**.
 
 ---
