@@ -42,9 +42,9 @@ I enjoy building **data-driven solutions** and improving my skills in **.NET, Py
 
 ## 🔹 GitHub Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cannparmak&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cannparmak&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical&langs_count=8&hide_border=true)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cannparmak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
