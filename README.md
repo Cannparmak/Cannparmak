@@ -1,68 +1,119 @@
-# Hi there, I'm Mülayim Can 👋
+<h1 align="center">Hi 👋, I'm Mülayim Can Parmak</h1>
 
-I am a **4th-year Software Engineering student** at Beykoz University, passionate about **Data Science, Data Analyst, Business Analysis**.  
-I enjoy building **data-driven solutions** and improving my skills in **.NET, Python, C, C++, and microservices architectures**.
+<h3 align="center">
+Software Engineering Graduate • Data Science Enthusiast
+</h3>
 
----
+<p align="center">
+Passionate about Data Science, Machine Learning and Artificial Intelligence.
+I enjoy building data-driven solutions and continuously improving my analytical skills.
+</p>
 
-## 🔹 Skills & Technologies
+<p align="center">
+<a href="mailto:mcanparmak@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-**Languages**
+<a href="https://www.linkedin.com/in/mcanparmak">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
-
-**Frameworks & Libraries**
-
-<div>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET MVC">
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="EF Core">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-</div>
-
-**Databases**
-
-<div>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</div>
+<img src="https://komarev.com/ghpvc/?username=Cannparmak&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🔹 GitHub Stats
+# 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cannparmak&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=radical&langs_count=8&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Cannparmak&theme=radical&hide_border=true)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cannparmak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🎓 Bachelor's Degree in Software Engineering
+- 📊 Interested in **Data Science, Machine Learning and Data Analytics**
+- 🐍 Currently improving my knowledge of **Python, SQL, Machine Learning and Deep Learning**
+- 🤖 I enjoy building intelligent systems and solving real-world problems with data.
+- 🌱 Always learning new technologies and expanding my skill set.
 
 ---
 
-## 🔹 Contact Me
+# 🛠️ Tech Stack
 
-<div>
-  <a href="mailto:mcanparmak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mcanparmak@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mcanparmak">
-    <img src="https://img.shields.io/badge/LinkedIn-Mülayim%20Can-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,c,cpp,js"/>
+</p>
+
+### Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,anaconda"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 🎬 MovieMatch Recommender
+A content-based movie recommendation system developed with Python and Scikit-Learn.
+
+### 📊 Social Media Sentiment Analysis
+Sentiment analysis of Turkish social media posts using NLP and Machine Learning techniques.
+
+### 🤖 Data Science Projects
+A collection of machine learning, data analysis and visualization projects built with Python.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cannparmak&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannparmak&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Cannparmak&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cannparmak&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Cannparmak&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📫 Contact
+
+- 📧 **Email:** mcanparmak@gmail.com
+- 💼 **LinkedIn:** linkedin.com/in/mcanparmak
+
+---
+
+<div align="center">
+
+### *"Turning data into meaningful insights."*
+
 </div>
-
----
-
-> "Show must go on."
